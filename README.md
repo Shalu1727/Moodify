@@ -1,6 +1,6 @@
-# EmotiFy: Multimodal Emotion Detection System
+# Moodify: Multimodal Emotion Detection System
 
-EmotiFy is a **Multimodal Emotion Detection System** that combines **facial expression analysis** and **speech emotion recognition** to accurately detect human emotions in real-time.  
+Moodify is a **Multimodal Emotion Detection System** that combines **facial expression analysis** and **speech emotion recognition** to accurately detect human emotions in real-time.  
 It uses **deep learning models** for both image and audio inputs, delivering a robust, cross-modal emotion classification.
 
 ---
@@ -37,5 +37,3 @@ It uses **deep learning models** for both image and audio inputs, delivering a r
 4. **Fusion:** Combine predictions from both models to get the final emotion output.
 5. **UI Display:** Show emotion results in real-time via Streamlit.
 
-git clone https://github.com/your-username/emotify.git
-cd emotify
